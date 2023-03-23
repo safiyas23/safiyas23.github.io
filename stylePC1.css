@@ -4,7 +4,7 @@ h1 {
   color: #555B6E;
   text-align: center;
 	font-size: 40pt;
-	font: <li nk rel="preconnect" href="https://fonts.googleapis.com">
+	font: <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap" rel="stylesheet">;
 }
@@ -15,12 +15,14 @@ h2 {
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap" rel="stylesheet">;
 }
-td:hover {
-	 box-shadow: 5px 10px;
+.row1Div:hover {
+	 box-snohadow: 5px 10px;
 	 
 
 }
-
+.row1Div {
+background-col
+}
 table {
 	
 	font-family: 'Poppins', sans-serif;
@@ -28,6 +30,7 @@ table {
 	font-size: 15pt;
 	font-style: italic;
 	border-spacing: 10px;
+	text-align:center;
 	text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
 }
 
